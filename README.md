@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Hi, i'm Eli!</p>
 <p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
-### 🛠 Tools i use:
+<span align="center">### 🛠 Tools i use:</span>
 
 
 <div align="center">
@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 </div>
 
 
-#🧠What am I studying:
+<span align="center">### 🧠What am I studying:</span>
+
 <div align="center">
   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
