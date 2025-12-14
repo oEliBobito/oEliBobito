@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Hi, i'm Eli!</p>
 <p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
-<span align="center">### **My Worktools**🛠</span>
+<div align="center">### **My Worktools**🛠</div>
 
 
 <div align="center">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<span align="center">### **What am I studying**🧠</span>
+<div align="center">### **What am I studying**🧠</div>
 
 <div align="center">
   
