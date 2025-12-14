@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>Hi, i'm Eli!</p>
 <p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
-<div align="center">### fosdase</div>
+<span align="center">### fosdase</span>
 
 
 <div align="center">
