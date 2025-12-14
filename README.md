@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
 <div align="center">### <b>My Worktools</b>🛠</div>
-
-
+<br>
+<br>
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">### <b>What am I studying</b>🧠</div>
-
+<br>
+<br>
 <div align="center">
   
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
