@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  background-image: url("https://c4.wallpaperflare.com/wallpaper/593/78/547/buildings-castle-dark-gothic-wallpaper-preview.jpg");
-</style>
 <p>Hi, i'm Eli!</p>
 <p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
