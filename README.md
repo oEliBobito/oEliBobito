@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Hi, i'm Eli!</p>
-<p>Student and FrontEnd enjoyer</p>
 <p>16y</p>
+<p>Student and FrontEnd enjoyer</p>
+<p>Born In Itararé-SP in Brazil</p>
 <div align="center">*<b>My Worktools</b>🛠</div>
 <br>
 <br>
