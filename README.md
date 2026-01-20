@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
 <div align="center">*<b>What am I studying</b>🧠</div>
 <br>
 <br>
